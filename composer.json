@@ -1,26 +1,26 @@
 {
-	"description": "API Key Management for the CodeIgniter framework",
-	"name": "bantenprov/ci-api-manager",
-	"type": "library",
-	"homepage": "https://github.com/bantenprov/ci-api-manager",
-	"authors": [
-		{
-			"name": "bantenprov",
-			"role": "developer.bantenprov@gmail.com"
-		}
-	],
-	"license": "MIT",
-	"support": {
-		"source": "https://github.com/bantenprov/ci-api-manager"
-	},
-	"require": {
-		"php": ">=5.4.0",
-		"codeigniter/framework": "^3.0.4"
-	},
-	"autoload": {
-		"classmap": [
-			"application/libraries/Format.php",
-			"application/libraries/REST_Controller.php"
-		]
-	}
+  "description": "API Key Management for the CodeIgniter framework",
+  "name": "bantenprov/ci-api-manager",
+  "type": "library",
+  "homepage": "https://github.com/bantenprov/ci-api-manager",
+  "authors": [
+    {
+      "name": "bantenprov",
+      "role": "developer.bantenprov@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "support": {
+    "source": "https://github.com/bantenprov/ci-api-manager"
+  },
+  "require": {
+    "php": ">=5.4.0",
+    "codeigniter/framework": "^3.0.4"
+  },
+  "autoload": {
+    "classmap": [
+      "application/libraries/Format.php",
+      "application/libraries/REST_Controller.php"
+    ]
+  }
 }
