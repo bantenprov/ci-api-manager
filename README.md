@@ -1,7 +1,7 @@
 # CI API Manager
 ## Intstall
 ```
-$composer require bantenprov/ci-api-manager
+$composer require bantenprov/ci-api-manager "dev-master"
 ```
 Ion Auth 2 : https://github.com/benedmunds/CodeIgniter-Ion-Auth
 
